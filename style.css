@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+}
+
+body{
+  width: 100%;
+  margin: 0 auto;
+}
+
+canvas{
+  background-color: rgb(93, 131, 187);
+}
